@@ -234,7 +234,7 @@ npx hardhat run scripts/deploy.js --network goerli
 ```
 You should see something like
 ```bash
-Contract deployed to address: 0xCAFBf889bef0617d9209Cf96f18c850e901A6D61
+Contract deployed to address: 0xDA1bdb3AdE6dddc26F126033A51bd18c6feC4F0b
 ```
 ![Screenshot_186](https://user-images.githubusercontent.com/81378817/205192727-b30a2c41-b2d1-4409-bff3-b7cbb08b9c60.jpg)
 
