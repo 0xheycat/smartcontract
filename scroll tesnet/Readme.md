@@ -32,7 +32,7 @@ Please replace following Data
 * `<your_private_key>` is private key from your wallet, try to use your private keys from wallet used on curent Testnet
 
 ```bash
-forge create --rpc-url https://prealpha.scroll.io/l2 \
+forge create --rpc-url https://alpha-rpc.scroll.io/l2 \
   --value <lock_amount> \
   --constructor-args <unlock_time> \
   --private-key <your_private_key> \
@@ -41,7 +41,7 @@ forge create --rpc-url https://prealpha.scroll.io/l2 \
 ```
 example
 ```bash
-forge create --rpc-url https://prealpha.scroll.io/l2 \
+forge create --rpc-url https://alpha-rpc.scroll.io/l2 \
   --value 0.00000000002ether \
   --constructor-args 1696118400 \
   --private-key 0xabc123abc123abc123abc123abc123abc123abc123abc123abc123abc123abc1 \
