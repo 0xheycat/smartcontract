@@ -1,3 +1,10 @@
+![Screenshot_43](https://github.com/fatalbar/smartcontract/assets/81378817/ddf3e723-c43a-45e7-97f6-16585b19efe8)
+
+## Redbelly network 
+* [Official website](https://www.redbelly.network/) 
+* [Official Doc](https://vine.redbelly.network/)
+* [Discord ](https://discord.gg/redbelly)
+* [Zealy](https://zealy.io/c/redbellynetwork-9013/invite/_rhnCFvX9CKyoXi5_6AWx) 
 
 Welcome to this tutorial, where we will walk you through the process of developing an awesome NFT (Non-Fungible Token) smart contract on Remix. By the end of this tutorial, you will have a solid understanding of how to create NFT contracts and implement them using Remix.
 
